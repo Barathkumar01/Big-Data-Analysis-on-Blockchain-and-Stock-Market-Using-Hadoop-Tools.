@@ -66,7 +66,3 @@ This project demonstrates how big data tools like Hadoop, Pig, Hive, and Spark c
 ### Prerequisites
 - Ensure that you have Hadoop and all necessary tools (Pig, Hive, Spark, Flume, Sqoop) installed on your system.
 
-### Installation Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/blockchain-stock-market-big-data.git
